@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-polymorphism/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-polymorphism.csprojAssemblyReference.cache
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-polymorphism/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-polymorphism.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-polymorphism/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-polymorphism.AssemblyInfo.cs
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-polymorphism/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-polymorphism.deps.json
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-polymorphism/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-polymorphism.runtimeconfig.json
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-polymorphism/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-polymorphism.runtimeconfig.dev.json
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-polymorphism/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-polymorphism.dll
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-polymorphism/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-polymorphism.pdb
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-polymorphism/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-polymorphism.dll
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-polymorphism/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-polymorphism.pdb
